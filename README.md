@@ -21,5 +21,3 @@ This project evaluates whether Atlanta's MARTA rail system can accommodate incre
 ## Results
 
 Created interactive maps and visualizations to assess MARTA's ability to support increased ridership.
-Alonso Gutierrez 
-Physics Student, Georgia State University
